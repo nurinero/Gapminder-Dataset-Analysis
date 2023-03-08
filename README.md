@@ -1,6 +1,6 @@
 # Gapminder Dataset Analysis
 This project analyzes the Gapminder dataset, which contains information about various countries around the world, including their population, income, life expectancy, and more. Specifically, this project focuses on the relationship between fertility rate and life expectancy over time.
-
+![visualization of the Fertility Rate vs Life Expectancy over time](demo.gif)
 ## Data Collection
 The data for this project was collected from the Gapminder project, which provides access to a wide range of datasets related to global development. The dataset used in this project contains information about fertility rate and life expectancy for various countries from 1960 to 2015.
 
